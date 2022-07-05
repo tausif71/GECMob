@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1656999009002,
+  "timestamp": 1656999460066,
   "index": "/GECMob/index.html",
   "assetGroups": [
     {
@@ -14,7 +14,7 @@
         "/GECMob/4.8bce4f8fd375d26293f6.js",
         "/GECMob/favicon.ico",
         "/GECMob/index.html",
-        "/GECMob/main.787c31fc9df06d17727c.js",
+        "/GECMob/main.60ef436244fdf81919ce.js",
         "/GECMob/manifest.webmanifest",
         "/GECMob/polyfills.48d30ca5ac637064c40b.js",
         "/GECMob/runtime.77546a576e0b10895b3d.js",
@@ -203,9 +203,9 @@
     "/GECMob/assets/js/select2.min.css": "0262303d6ae851521ba206fdb6c5d0578f06b4f4",
     "/GECMob/assets/js/select2.min.js": "1dfc915bb5ac4913419c7763e360e2db0bf1bbbf",
     "/GECMob/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/GECMob/index.html": "09c9f0d9965193ab33f0138764f06fdc16ad0c4b",
+    "/GECMob/index.html": "6e14b5a19d4c81396c793a04b80e721d351d937c",
     "/GECMob/logo-bg.bdd3ffc4db5178535d74.png": "fea38363c91efade3efff0332d17970866f9bf7f",
-    "/GECMob/main.787c31fc9df06d17727c.js": "b8762436afe5ba04ae56a3c92784de90cb21ca9a",
+    "/GECMob/main.60ef436244fdf81919ce.js": "cc19a4d43dea9dc4263985786b8b376a1d0bcb88",
     "/GECMob/manifest.webmanifest": "f10a2a07077e23ae20b66e5f781e2a3b2058fad5",
     "/GECMob/polyfills.48d30ca5ac637064c40b.js": "e7a54593504998a9ff2ae3fff1a96ee7033106ed",
     "/GECMob/runtime.77546a576e0b10895b3d.js": "d98c2853c752bd454dc0566ea29e7954aa0b196f",
